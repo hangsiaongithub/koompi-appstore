@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "pi-library",
+    "pi-package-manager",
+    "pi-package-builder",
+    "pi-deriver-discover",
+    "pi-deriver-pacman",
+    "pi-web-backend",
+]

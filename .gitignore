@@ -1,0 +1,10 @@
+/pi-library/target
+/pi-package-builder/target
+/pi-package-builder/work/*
+/pi-package-builder/dist/*
+/pi-package-manager/target
+/pi-package-repository/node_modules
+/pi-deriver-discover/target
+/pi-deriver-pacman/target
+/target
+/pi-web-backend/target

@@ -1,0 +1,16 @@
+{
+  "repos": [
+    {
+      "name": "Cambodia",
+      "address": "http://localhost:5005"
+    }
+  ],
+  "production": false,
+  "db_directory": "root/store/db",
+  "cache_directory": "root/store/cache",
+  "local_db": "root/store/db/store.json",
+  "registry": "root/store/db/registry.json",
+  "version_file": "root/store/db/version.json",
+  "executable_ext": ".app",
+  "installation_target": "root/"
+}
